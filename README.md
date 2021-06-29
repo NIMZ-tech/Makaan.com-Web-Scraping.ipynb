@@ -1,9 +1,9 @@
 # Makaan.com-Web-Scraping.ipynb
 ![Makaan com-Hydrabad Apartment](https://user-images.githubusercontent.com/82861164/123740702-7c920280-d8c6-11eb-9d3e-2769cd5e1266.jpg)
 
-Collected data of 1000 apartment in Hydrabad from makaan.com
+## Collected data of 1000 apartment in Hydrabad from makaan.com
 # Programming Language
-Python3
+## Python3
 # Modules used
 ## 1.Requests
 ## 2.Beautiful soup from bs4
@@ -18,7 +18,7 @@ Python3
 ## 6.Location
 ## 7.Price sqft info
 # Data Source
-web page=https://www.makaan.com/hyderabad-residential-property/buy-property-in-hyderabad-city?page=
+## web page=https://www.makaan.com/hyderabad-residential-property/buy-property-in-hyderabad-city?page=
 #Contents of repository
 ## 1.Codes of web scraping
 ## 2.Data stored in csv file
