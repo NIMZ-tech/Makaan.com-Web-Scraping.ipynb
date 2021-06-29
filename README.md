@@ -19,7 +19,7 @@
 ## 7.Price sqft info
 # Data Source
 ## web page=https://www.makaan.com/hyderabad-residential-property/buy-property-in-hyderabad-city?page=
-#Contents of repository
+# Contents of repository
 ## 1.Codes of web scraping
 ## 2.Data stored in csv file
 
